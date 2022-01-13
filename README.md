@@ -1,2 +1,2 @@
 # Shell_Vim
-Shell scripts using Vim as text editor
+Shell scripts in Bash using Vim as text editor
