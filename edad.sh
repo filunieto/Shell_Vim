@@ -14,5 +14,8 @@ elif [ $(date +%m) -eq $MONTH -a $(date +%d) -lt $DAY ]; then
 fi
 echo "Tienes $EDAD años "
 
-
+for skill in Ada Coffe Action Java; do
+    echo "I am good at ${skill}Script"
+    # echo "I am good at $(skill)Script --> parentesis"
+done
 
